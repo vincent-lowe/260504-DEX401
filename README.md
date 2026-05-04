@@ -1,27 +1,27 @@
-DEX401 - Anypoiont Development Fundamentals Classroom Reference - < YYMMDD > - < TZ >
+DEX401 - Anypoint Development Fundamentals Classroom Reference - 260504  - EDT
 
-< Instructor Name >
+Vincent Lowe
 
-< Instructor Email >
+vlowe@salesforce.com
 
 -------------------------------------------------------------------------------------------------------------------
 Trailhead Academy:						https://trailheadacademy.salesforce.com/my-learning
 
-Attendance Code:							< Attendance Code >
+Attendance Code:							N/A - we no longer use Attendance Code
 
 Salesforce Mimeo:							https://salesforce.mimeo.digital/MuleSoft
 
-eBook Redemption Key:					< Mimeo Key >
+eBook Redemption Key:					USDDVJLEWY9J
 
 -------------------------------------------------------------------------------------------------------------------
 Survey Link:									https://www.research.net/r/trailheadacademy
 
-Survey ID:										< survey ID >
+Survey ID:										TASM-2129107
 
 -------------------------------------------------------------------------------------------------------------------
-Zoom Link: < Zoom Link >
+Zoom Link: [Zoom Link](https://salesforce-training.zoom.us/s/87576088680?pwd=XHsiZYdbfH0OXHQd7p1uOJog5wDw6b.1#success)
 
-Meeting ID: < Meeting ID >
+Meeting ID: 87576088680
 
 Class System Setup (pre-class): https://trailhead.salesforce.com/help?article=Computer-Setup-Guide-for-MuleSoft-Expert-Led-Classes#DEX401
 
@@ -59,6 +59,8 @@ Log Analyzer: https://help.salesforce.com/s/articleView?language=en_US&id=Suppor
 
 |Track Title|Artist|Notes|
 |-----------|------|-----|
+|Angela|Bob James|80s TV Theme from Taxi|
+
 
 
 
