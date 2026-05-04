@@ -62,7 +62,7 @@ Log Analyzer: https://help.salesforce.com/s/articleView?language=en_US&id=Suppor
 |Angela|Bob James|80s TV Theme from Taxi|
 |Smooth Criminal|Luca Stricagnoli|One Man, One Guitar, three necks|
 |Here We Go Again|Ray Charles and Norah Jones||
-
+|Sweet Home Alabama|Luca Stricagnoli||
 
 
 
