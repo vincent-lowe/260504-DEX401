@@ -4,6 +4,10 @@ Vincent Lowe
 
 vlowe@salesforce.com
 
+Virtual machines at Cloudshare: https://use.cloudshare.com/Class/cjjc6
+
+Passphrase: Fiona the Important Swan
+
 -------------------------------------------------------------------------------------------------------------------
 Trailhead Academy:						https://trailheadacademy.salesforce.com/my-learning
 
