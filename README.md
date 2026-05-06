@@ -73,4 +73,5 @@ Log Analyzer: https://help.salesforce.com/s/articleView?language=en_US&id=Suppor
 |Sixteen Tons|Geoff Castellucci||
 |Analog Hero|Mark Erelli||
 |It Ain't Over Yet|Rodney Crowell||
-
+|Good Day for a Good Day|Michael Franti & Spearhead||
+|Tupelo Honey|Elle Cordova and Toni Cordova||
