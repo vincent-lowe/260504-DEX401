@@ -79,3 +79,5 @@ Log Analyzer: https://help.salesforce.com/s/articleView?language=en_US&id=Suppor
 |Hello, Goodbye|The Beatles||
 |Just Breathe|Willie Nelson feat. Josh Nelson|Pearl Jam cover|
 |You Go to My Head|Louis Armstrong feat. Oscar Peterson||
+|The Hitter|Mark Erelli|Mark wrote this song for his son|
+
