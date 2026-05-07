@@ -81,3 +81,5 @@ Log Analyzer: https://help.salesforce.com/s/articleView?language=en_US&id=Suppor
 |You Go to My Head|Louis Armstrong feat. Oscar Peterson||
 |The Hitter|Mark Erelli|Mark wrote this song for his son|
 |How Can You Mend a Broken Heart|Al Green|Bee Gees cover|
+|Have You Ever Seen the Rain|Willie Nelson feat. Paula Nelson|Creedence Clearwater cover|
+
