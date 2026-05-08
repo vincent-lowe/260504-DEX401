@@ -84,5 +84,8 @@ Log Analyzer: https://help.salesforce.com/s/articleView?language=en_US&id=Suppor
 |Have You Ever Seen the Rain|Willie Nelson feat. Paula Nelson|Creedence Clearwater cover|
 |I'm Feeling Good|Nina Simone||
 |My Walking Stick|Leon Redbone||
+|I Was Doing All Right|Louis Armstrong||
+|Navajo Rug|Jerry Jeff Walker||
+
 
 
